@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,DSA, Web development
 - 💞️ I’m looking to collaborate on  python based project,Front Ended projects and real life problem projects 
 - 📫 How to reach me contact me at my Linkedin,Mail
-- 😄 Pronouns: ...he
+- 😄 Pronouns: ...HE
 - ⚡ Fun fact: ...I am not famous 🙃
 
 
