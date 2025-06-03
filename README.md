@@ -10,7 +10,7 @@
 
 ## 🌐 Connect with Me
 
-### 🧠 Coding & Cybersecurity Platforms
+### 🧠 Coding & Cybersecurity Platforms:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode\&logoColor=white)](https://leetcode.com/Ramrajnagar/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/Ramraj_nagar07)
