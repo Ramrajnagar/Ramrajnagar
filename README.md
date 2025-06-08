@@ -93,7 +93,7 @@ I enjoy building modern and responsive web applications using React.js, Next.js,
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/Ramrajnagar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ramraj-nagar-784771307/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](http://www.instagram.com/rn_ramraj)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto\&logoColor=white)](https://www.dev.to/r)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto\&logoColor=white)](https://www.dev.to/ramrajnagar)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white)](http://www.medium.com/t)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://www.youtube.com/@Na)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x\&logoColor=white)](https://www.x.com/r)
