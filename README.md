@@ -103,7 +103,7 @@ I enjoy building modern and responsive web applications using React.js, Next.js,
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab\&logoColor=white)](https://gitlab.com/Ramrajnagar)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode\&logoColor=white)](https://hashnode.com/@Ramrajnagar)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?logo=polywork\&logoColor=white)](https://www.polywork.com/y)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow\&logoColor=white)](https://www.stackoverflow.com/users/nn)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow\&logoColor=white)](https://stackoverflow.com/users/30750547/ramraj-nagar)
 [![RSS](https://img.shields.io/badge/RSS-FFA500?logo=rss\&logoColor=white)](https://nn)
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=threads\&logoColor=white)](https://www.threads.net/@r)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch\&logoColor=white)](https://www.twitch.tv/n)
