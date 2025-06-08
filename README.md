@@ -97,7 +97,7 @@ I enjoy building modern and responsive web applications using React.js, Next.js,
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white)](https://medium.com/@ramrajnagar2005)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://www.youtube.com/@Na)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x\&logoColor=white)](https://x.com/Ramrajdhakad07)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](https://discord.com/users/Ramrajnagar)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](https://discord.com/users/verugaming7147)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen\&logoColor=white)](https://www.codepen.io/Ramrajnagar)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox\&logoColor=white)](https://codesandbox.io/u/ram)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab\&logoColor=white)](https://www.gitlab.com/Ramrajnagar)
