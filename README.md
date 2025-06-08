@@ -101,7 +101,7 @@ I enjoy building modern and responsive web applications using React.js, Next.js,
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen\&logoColor=white)](https://www.codepen.io/Ramrajnagar)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox\&logoColor=white)](https://codesandbox.io/u/ramrajnagar)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab\&logoColor=white)](https://gitlab.com/Ramrajnagar)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode\&logoColor=white)](https://e.hashnode.dev)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode\&logoColor=white)](https://hashnode.com/@Ramrajnagar)
 [![Polywork](https://img.shields.io/badge/Polywork-543DE0?logo=polywork\&logoColor=white)](https://www.polywork.com/y)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow\&logoColor=white)](https://www.stackoverflow.com/users/nn)
 [![RSS](https://img.shields.io/badge/RSS-FFA500?logo=rss\&logoColor=white)](https://nn)
