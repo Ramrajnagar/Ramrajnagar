@@ -7,7 +7,7 @@ I enjoy building modern and responsive web applications using React.js, Next.js,
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/rn_ramraj)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:ramrajnagar2005@gmail.com)
 
-*   🧠  I'm learning Lang Chain & lang Graph
+*   🧠  I'm Currently learning Lang Chain & lang Graph
 *   🤝  I'm open to collaborating on Web developement &Data Analysis Projects
 *   ⚡  I'm secretly Spider-Man 🕷️🤫, but don't tell anyone 🤐.
 
