@@ -28,8 +28,8 @@ I enjoy building modern and responsive web applications using React.js, Next.js,
 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Ramrajnagar/striver-a2z-dsa-sheet)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ramrajnagar/striver-a2z-dsa-sheet)
+
+
 
 
 
