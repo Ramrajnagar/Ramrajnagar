@@ -1,4 +1,4 @@
-# **Hi** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meet Ramraj 👨‍💻
+# **Hi** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meet Ramraj...👨‍💻
 I'm a Web Developer and AI/ML Enthusiast
 
 I enjoy building modern and responsive web applications using React.js, Next.js, Tailwind CSS, and JavaScript.. I'm also exploring backend development with Python and Flask, and working with Chart.js to build data visualization.  I’m actively learning data structures and algorithms in Python, working on machine learning basics, and constantly improving my problem-solving skills. I love blending web technologies with data science, and I believe in learning by building. My goal is to become a full-stack developer with strong AI/ML capabilities and contribute to meaningful open-source projects. If you’re interested in connecting, feel free to reach out on LinkedIn or explore my GitHub to see what I’m working on.<br>
