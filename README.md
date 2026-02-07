@@ -9,7 +9,7 @@ I enjoy building modern and responsive web applications using React.js, Next.js,
 
 *   🧠  I'm Currently learning Lang Chain & lang Graph
 *   🤝  I'm open to collaborating on Web developement &Data Analysis Projects
-*   ⚡  I'm secretly Spider-Man 🕷️, but don't tell anyone.
+*   ⚡  I'm secretly Spider-Man 🕷️,Sorry now I Become Batman... hehe  but don't tell anyone.
 
 
 
