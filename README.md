@@ -2,19 +2,19 @@
 I'm a Web Developer and AI/ML Enthusiast
 
 I enjoy building modern and responsive web applications using React.js, Next.js, Tailwind CSS, and JavaScript.. I'm also exploring backend development with Python and Flask, and working with Chart.js to build data visualization.  I’m actively learning data structures and algorithms in Python, working on machine learning basics, and constantly improving my problem-solving skills. I love blending web technologies with data science, and I believe in learning by building. My goal is to become a full-stack developer with strong AI/ML capabilities and contribute to meaningful open-source projects. If you’re interested in connecting, feel free to reach out on LinkedIn or explore my GitHub to see what I’m working on.<br>
-*   🌍  I'm based in India
-*   ✉️  You can contact me at  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ramraj-nagar-784771307/)
+*    I'm based in India
+*    You can contact me at  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ramraj-nagar-784771307/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/rn_ramraj)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:ramrajnagar2005@gmail.com)
 
-*   🧠  I'm Currently learning Lang Chain & lang Graph
-*   🤝  I'm open to collaborating on Web developement &Data Analysis Projects
-*   ⚡  I'm secretly Spider-Man 🕷️,Sorry now I Become Batman... hehe  but don't tell anyone.
+*    I'm Currently learning Lang Chain & lang Graph
+*     I'm open to collaborating on Web developement &Data Analysis Projects
+*    I'm secretly Spider-Man 🕷️,Sorry now I Become Batman... hehe  but don't tell anyone.
 
 
 
 
-## 🧠 Coding & Cybersecurity Platforms:
+##  Coding & Cybersecurity Platforms:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode\&logoColor=white)](https://leetcode.com/Ramrajnagar/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/Ramraj_nagar07)
@@ -23,8 +23,6 @@ I enjoy building modern and responsive web applications using React.js, Next.js,
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox\&logoColor=black)](https://app.hackthebox.com/Rajdhakad)
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ramrajnagar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
