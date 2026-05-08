@@ -9,7 +9,7 @@
 ```yaml
 name: Ramraj Nagar
 role: Full Stack Developer & AI/ML Enthusiast
-education: B.Tech CSE @ SRMU Lucknow
+education: B.Tech CSE @ Sitare University Lucknow
 location: India
 
 currently_learning:
